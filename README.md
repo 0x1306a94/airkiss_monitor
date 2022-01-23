@@ -13,3 +13,6 @@ apt-get install libiw-dev
 # WiFi相关命令
 apt-get install wireless-tools
 ```
+
+# References
+* [AirKiss Client 实现评估及 raw socket](https://breezetemple.github.io/2019/04/19/airkiss-client-and-raw-socket/)
